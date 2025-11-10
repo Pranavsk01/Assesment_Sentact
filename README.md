@@ -21,8 +21,6 @@ pytest tests/test_contact_form.py -v
 
 File: tests/test_nav_dropdown.py
 
-Purpose: Verifies that top navigation menus (e.g., “Solutions”) expand when hovered and collapse when the mouse moves away.
-
 Checks include:
 
 1. Dropdown becomes visible on hover.
@@ -32,8 +30,6 @@ Checks include:
 **Contact Form Test**
 
 File: tests/test_contact_form.py
-
-Purpose: Automates submission of the Contact Us form.
 
 Checks include:
 1. All input fields are visible and can be filled.
