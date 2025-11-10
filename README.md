@@ -5,8 +5,10 @@ It demonstrates how to validate UI components, such as **navigation dropdowns** 
 pip install -r requirements.txt
 
 **You can run all tests using pytest by using the command:**
+
 pytest -v
 **RUNNING A SINGLE TEST FILE**
+
 pytest tests/test_nav_dropdown.py -v
 pytest tests/test_contact_form.py -v
 
