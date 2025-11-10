@@ -2,6 +2,7 @@ This repository contains **Python + Selenium** automation tests as an assessment
 It demonstrates how to validate UI components, such as **navigation dropdowns** and **form submissions**, using a modern Selenium and Pytest setup.
 
 **ADD DEPENDENCIES**
+
 pip install -r requirements.txt
 
 **You can run all tests using pytest by using the command:**
