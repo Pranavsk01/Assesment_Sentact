@@ -20,8 +20,11 @@ pytest tests/test_contact_form.py -v
 **Navigation Dropdown Test**
 
 File: tests/test_nav_dropdown.py
+
 Purpose: Verifies that top navigation menus (e.g., “Solutions”) expand when hovered and collapse when the mouse moves away.
+
 Checks include:
+
 1. Dropdown becomes visible on hover.
 2. Expected submenu items are displayed.
 3. Dropdown collapses correctly when focus moves away.
