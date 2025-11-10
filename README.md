@@ -32,7 +32,9 @@ Checks include:
 **Contact Form Test**
 
 File: tests/test_contact_form.py
+
 Purpose: Automates submission of the Contact Us form.
+
 Checks include:
 1. All input fields are visible and can be filled.
 2. Form submission triggers a success message.
