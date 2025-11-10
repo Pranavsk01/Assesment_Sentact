@@ -44,6 +44,6 @@ Browser: Google Chrome
 
 **Author**
 
-Pranav Kapadnis
-QA Automation and Manual Tester
+Pranav Kapadnis |
+QA Automation and Manual Tester |
 awerora.kapadnis@gmail.com
